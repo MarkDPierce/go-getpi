@@ -4,11 +4,6 @@
 
 As of today (July 27th 2024) this is an MVP of what I have so far. The code builds, the code works. I still want to roll out a bit more CI/CD features leveraging Github as well as implement this as a CLI tool as well so you don't have to run it as a container.
 
-
-## CLI
-
-`./go-getpi sync --config ./config.json --sslSecure=false`
-
 ## Todos
 
 Write proper documentation

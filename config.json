@@ -1,14 +1,14 @@
 {
     "primaryhost": {
-        "baseurl": "https://pihole.mpierce.net",
-        "password": "lG5ISZ04A!NK",
+        "baseurl": "https://host1.domain.net",
+        "password": "PIHOLE_INTERFACE_PASSWORD",
         "path": "",
         "sslSecure": false
     },
     "secondaryHosts": [
         {
-            "baseurl": "https://pihole2.mpierce.net",
-            "password": "lG5ISZ04A!NK",
+            "baseurl": "https://host2.domain.net",
+            "password": "PIHOLE_INTERFACE_PASSWORD",
             "path": "",
             "sslSecure": false
         }
