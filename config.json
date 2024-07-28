@@ -1,0 +1,19 @@
+{
+    "primaryhost": {
+        "baseurl": "https://pihole.mpierce.net",
+        "password": "lG5ISZ04A!NK",
+        "path": "",
+        "sslSecure": false
+    },
+    "secondaryHosts": [
+        {
+            "baseurl": "https://pihole2.mpierce.net",
+            "password": "lG5ISZ04A!NK",
+            "path": "",
+            "sslSecure": false
+        }
+    ],
+    "updateGravity": true,
+    "runOnce": false,
+    "intervalMinutes": 2
+}
